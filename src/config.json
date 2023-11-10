@@ -1,6 +1,6 @@
 {
   "taskVersion": "1.0.0",
-  "taskName": "vch_short_psychedelic_bl",
+  "taskName": "visual_short_t",
   "debug": false,
   "awsLambda": {
     "saveTaskData": {
