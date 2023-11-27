@@ -78,7 +78,7 @@ function createPatch(stim) {
  export function createAuditoryStim() {
    var stim = {
      duration: 300, // in ms
-     amp: 15,
+     amp: 1, //default is 15
      frequency: 500,
    };
 
